@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saharaparker.github.io/csb-nr0p58/static/css/main.32eae484.chunk.css",
+    "main.js": "https://saharaparker.github.io/csb-nr0p58/static/js/main.7ae22ae3.chunk.js",
+    "main.js.map": "https://saharaparker.github.io/csb-nr0p58/static/js/main.7ae22ae3.chunk.js.map",
+    "runtime-main.js": "https://saharaparker.github.io/csb-nr0p58/static/js/runtime-main.67e8afd9.js",
+    "runtime-main.js.map": "https://saharaparker.github.io/csb-nr0p58/static/js/runtime-main.67e8afd9.js.map",
+    "static/js/2.fd56f5e0.chunk.js": "https://saharaparker.github.io/csb-nr0p58/static/js/2.fd56f5e0.chunk.js",
+    "static/js/2.fd56f5e0.chunk.js.map": "https://saharaparker.github.io/csb-nr0p58/static/js/2.fd56f5e0.chunk.js.map",
+    "index.html": "https://saharaparker.github.io/csb-nr0p58/index.html",
+    "static/css/main.32eae484.chunk.css.map": "https://saharaparker.github.io/csb-nr0p58/static/css/main.32eae484.chunk.css.map",
+    "static/js/2.fd56f5e0.chunk.js.LICENSE.txt": "https://saharaparker.github.io/csb-nr0p58/static/js/2.fd56f5e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67e8afd9.js",
+    "static/js/2.fd56f5e0.chunk.js",
+    "static/css/main.32eae484.chunk.css",
+    "static/js/main.7ae22ae3.chunk.js"
+  ]
+}
